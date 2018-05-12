@@ -12,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/1599
     - http://www.gutenberg.org/ebooks/author/43953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26704#A-Woman-at-Bay--Or-A-Fiend-in-Skirts
 gutenberg_issued: '2008-09-26'
 gutenberg_type: Text
 identifiers:
